@@ -1,0 +1,441 @@
+[
+  {
+    "chapter2": {
+      "title": "Sankhya Yoga (The Yoga of Knowledge)",
+      "description": "In Chapter 2, Arjuna, overwhelmed by compassion and doubt, refuses to fight. Krishna begins his divine teachings, explaining the eternal nature of the soul, the impermanence of the body, and the importance of performing one’s duty without attachment. This chapter introduces Sankhya philosophy (knowledge of the self) and lays the foundation for Karma Yoga and Jnana Yoga, guiding Arjuna toward spiritual clarity.",
+      "total_verses": 72,
+      "slok1": {
+        "sanskrit": "सञ्जय उवाच। तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम्। विषीदन्तमिदं वाक्यमुवाच मधुसूदनः।।2.1।।",
+        "transliteration": "sañjaya uvāca taṁ tathā kṛpayāviṣṭam aśru-pūrṇākulekṣaṇam, viṣīdantam idaṁ vākyam uvāca madhusūdanaḥ",
+        "meaning": "Sanjaya said: Seeing Arjuna overwhelmed with compassion, his eyes filled with tears and despondent, Madhusudana (Krishna) spoke these words.",
+        "explanation": "Chapter 2 begins with Sanjaya describing Arjuna’s emotional turmoil, setting the stage for Krishna’s teachings. Arjuna’s compassion for his kin and reluctance to fight reflect his inner conflict. Krishna, addressed as Madhusudana (slayer of the demon Madhu), is poised to offer divine wisdom, marking the start of the Gita’s philosophical discourse. This sloka establishes the emotional context for Krishna’s guidance on duty and the eternal soul."
+      },
+      "slok2": {
+        "sanskrit": "श्रीभगवानुवाच। कुतस्त्वाakashमलमिदं विषमे समुपस्थितम्। अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन।।2.2।।",
+        "transliteration": "śrī bhagavān uvāca kutastvā kaśmalam idaṁ viṣame samupasthitam, anārya-juṣṭam asvargyam akīrti-karam arjuna",
+        "meaning": "The Supreme Lord said: Whence has this dejection come upon you at this critical hour, O Arjuna? It is unbecoming of a noble person, leads not to heaven, and causes infamy.",
+        "explanation": "Krishna begins by gently rebuking Arjuna for his despondency, which is inappropriate for a warrior of noble character, especially in a crisis. He highlights that such weakness is uncharacteristic, leads to spiritual degradation, and tarnishes Arjuna’s reputation. This sloka sets a firm tone, urging Arjuna to rise above emotional weakness and prepare for Krishna’s teachings on duty and the self."
+      },
+      "slok3": {
+        "sanskrit": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यति। क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप।।2.3।।",
+        "transliteration": "klaibyaṁ mā sma gamaḥ pārtha naitat tvayy upapadyati, kṣudraṁ hṛdaya-daurbalyaṁ tyaktvottiṣṭha parantapa",
+        "meaning": "Do not yield to impotence, O Partha (Arjuna). It does not befit you. Abandon this petty weakness of heart and arise, O scorcher of foes.",
+        "explanation": "Krishna continues to motivate Arjuna, addressing him as Partha (son of Pritha) and Parantapa (scorcher of enemies), reminding him of his warrior prowess. He labels Arjuna’s despair as cowardice and weakness, urging him to stand up and face his duty. This sloka emphasizes the need to overcome emotional vulnerability, setting the stage for Krishna’s philosophical arguments to restore Arjuna’s resolve."
+      },
+      "slok4": {
+        "sanskrit": "अर्जुन उवाच। कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन। इषुभिः प्रतियोत्स्यामि पूज्यार्हावारिसूदन।।2.4।।",
+        "transliteration": "arjuna uvāca kathaṁ bhīṣmam ahaṁ saṅkhye droṇaṁ ca madhusūdana, iṣubhiḥ pratiyotsyāmi pūjyārhāv arisūdana",
+        "meaning": "Arjuna said: O Madhusudana, how can I fight with arrows in battle against Bhishma and Drona, who are worthy of reverence, O slayer of enemies?",
+        "explanation": "Arjuna expresses his moral dilemma, questioning how he can attack revered figures like Bhishma (his grandsire) and Drona (his teacher). His respect for them conflicts with his duty as a warrior. This sloka highlights Arjuna’s emotional and ethical struggle, prompting Krishna to address the deeper principles of duty and the soul’s immortality to resolve this conflict."
+      },
+      "slok5": {
+        "sanskrit": "गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके। हत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान् रुधिरप्रदिग्धान्।।2.5।।",
+        "transliteration": "gurūn ahatvā hi mahānubhāvān śreyo bhoktuṁ bhaikṣyam apiha loke, hatvārtha-kāmāṁs tu gurūn ihaiva bhuñjīya bhogān rudhira-pradigdhān",
+        "meaning": "It would be better to live on alms in this world than to slay these noble teachers. By killing them, I would enjoy wealth and pleasures stained with their blood.",
+        "explanation": "Arjuna argues that killing his revered teachers for material gains would be sinful, leading to blood-stained enjoyments. He prefers begging over such an act, reflecting his moral aversion to the war. This sloka deepens Arjuna’s dilemma, showing his fear of sin and attachment to worldly consequences, which Krishna will counter with teachings on detachment and the eternal soul."
+      },
+      "slok6": {
+        "sanskrit": "न चैतद्विद्मः कतरन्नो गरीयो यद्वा जयेम यदि वा नो जयेयुः। यानेव हत्वा न जिजीविषामस्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः।।2.6।।",
+        "transliteration": "na caitad vidmaḥ kataran no garīyo yadvā jayema yadi vā no jayeyuḥ, yān eva hatvā na jijīviṣāmas te ’vasthitāḥ pramukhe dhārtarāṣṭrāḥ",
+        "meaning": "I do not know which is better for us—whether we conquer them or they conquer us. Those whom we would not wish to live after killing, the sons of Dhritarashtra, stand before us.",
+        "explanation": "Arjuna expresses uncertainty about the war’s outcome and its moral implications. He is torn, as victory or defeat both involve killing his kin, whom he does not wish to outlive. This sloka reveals Arjuna’s confusion and despair, setting the stage for Krishna to clarify the eternal nature of the soul and the necessity of performing one’s duty without attachment."
+      },
+      "slok7": {
+        "sanskrit": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः। यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्।।2.7।।",
+        "transliteration": "kārpaṇya-doṣopahata-svabhāvaḥ pṛcchāmi tvāṁ dharma-sammūḍha-cetāḥ, yac chreyaḥ syān niścitaṁ brūhi tan me śiṣyas te ’haṁ śādhi māṁ tvāṁ prapannam",
+        "meaning": "My nature is overwhelmed by weakness and pity, and my mind is confused about dharma. I ask You: tell me decisively what is best for me. I am Your disciple, surrendered to You; please instruct me.",
+        "explanation": "Arjuna surrenders to Krishna as a disciple, admitting his confusion about duty (dharma) and his weakness. This pivotal slLEEoka marks Arjuna’s transition from despair to seeking divine guidance, establishing Krishna as his guru. It sets the stage for Krishna’s teachings on the soul, duty, and detachment, which form the core of Chapter 2’s Sankhya Yoga."
+      },
+      "slok8": {
+        "sanskrit": "न हि प्रपश्यामि ममापनुद्याद् यच्छोकमुच्छोषणमिन्द्रियाणाम्। अवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम्।।2.8।।",
+        "transliteration": "na hi prapaśyāmi mamāpanudyād yac chokam ucchoṣaṇam indriyāṇām, avāpya bhūmāv asapatnam ṛddhaṁ rājyaṁ surāṇām api cādhipatyam",
+        "meaning": "I see nothing that can remove this sorrow that dries up my senses, even if I gain an unrivaled, prosperous kingdom on earth or lordship over the gods.",
+        "explanation": "Arjuna laments that no material gain, not even a vast kingdom or divine power, can alleviate his grief, which overwhelms his senses. This sloka underscores the depth of his emotional turmoil and his recognition that worldly achievements cannot resolve his spiritual crisis, prompting Krishna to offer transcendent wisdom."
+      },
+      "slok9": {
+        "sanskrit": "सञ्जय उवाच। एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप। न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह।।2.9।।",
+        "transliteration": "sañjaya uvāca evam uktvā hṛṣīkeśaṁ guḍākeśaḥ parantapa, na yotsya iti govindam uktvā tūṣṇīṁ babhūva ha",
+        "meaning": "Sanjaya said: Having spoken thus to Hrishikesha (Krishna), Gudakesha (Arjuna), the scorcher of foes, said to Govinda, ‘I will not fight,’ and became silent.",
+        "explanation": "Sanjaya narrates Arjuna’s refusal to fight, addressing Krishna as Hrishikesha (Lord of the senses) and Govinda (pleaser of the senses). Arjuna’s declaration and silence mark the peak of his resistance, signaling his need for Krishna’s guidance. This sloka transitions to Krishna’s response, initiating the core teachings of Sankhya Yoga."
+      },
+      "slok10": {
+        "sanskrit": "तमुवाच हृषीकेशः प्रहसन्निव भारत। सेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः।।2.10।।",
+        "transliteration": "tam uvāca hṛṣīkeśaḥ prahasann iva bhārata, senayor ubhayor madhye viṣīdantam idaṁ vacaḥ",
+        "meaning": "O Bharata (Dhritarashtra), Hrishikesha (Krishna), smiling as it were, spoke these words to the despondent Arjuna in the midst of both armies.",
+        "explanation": "Krishna, with a gentle smile, begins to address Arjuna’s despondency, standing between the two armies. His smile reflects divine compassion and confidence, signaling the start of profound teachings. This sloka sets a reassuring tone, indicating that Krishna will dispel Arjuna’s confusion with wisdom, beginning with the eternal nature of the soul."
+      },
+      "slok11": {
+        "sanskrit": "श्रीभगवानुवाच। अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे। गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः।।2.11।।",
+        "transliteration": "śrī bhagavān uvāca aśocyān anvaśocas tvaṁ prajñā-vādāṁś ca bhāṣase, gatāsūn agatāsūṁś ca nānuśocanti paṇḍitāḥ",
+        "meaning": "The Supreme Lord said: You grieve for those who should not be grieved for, yet you speak words of wisdom. The wise grieve neither for the living nor the dead.",
+        "explanation": "Krishna begins his teachings by correcting Arjuna’s misplaced grief for his kin, noting that the wise do not mourn for the body, which is transient. Arjuna’s words seem wise but are rooted in ignorance of the soul’s eternity. This sloka introduces Sankhya philosophy, emphasizing the distinction between the impermanent body and the eternal soul, setting the foundation for spiritual clarity."
+      },
+      "slok12": {
+        "sanskrit": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः। न चैव न भविष्यामः सर्वं वयमतः परम्।।2.12।।",
+        "transliteration": "na tv evāhaṁ jātu nāsaṁ na tvaṁ neme janādhipāḥ, na caiva na bhaviṣyāmaḥ sarvaṁ vayam ataḥ param",
+        "meaning": "Never was there a time when I did not exist, nor you, nor these kings, nor will any of us cease to exist hereafter.",
+        "explanation": "Krishna asserts the eternal existence of the soul, stating that he, Arjuna, and all others have always existed and will continue to exist. This sloka establishes the soul’s immortality, a core tenet of Sankhya philosophy, to dispel Arjuna’s fear of death and encourage him to focus on his duty rather than the loss of physical bodies."
+      },
+      "slok13": {
+        "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा। तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।2.13।।",
+        "transliteration": "dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā, tathā dehāntara-prāptir dhīras tatra na muhyati",
+        "meaning": "Just as the embodied soul passes through childhood, youth, and old age in this body, so it passes to another body. The wise are not deluded by this.",
+        "explanation": "Krishna compares the soul’s journey through life stages to its transition between bodies at death. The soul remains unchanged, only the body changes. This sloka reinforces the soul’s continuity, urging Arjuna to remain steady (dhira) and not be swayed by the temporary nature of physical existence, aligning with Sankhya’s focus on self-knowledge."
+      },
+      "slok14": {
+        "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः। आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।2.14।।",
+        "transliteration": "mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkha-dāḥ, āgamāpāyino ’nityās tāṁs titikṣasva bhārata",
+        "meaning": "O son of Kunti, the contact of senses with objects produces cold and heat, pleasure and pain. They come and go, are impermanent; endure them, O Bharata.",
+        "explanation": "Krishna explains that sensory experiences like pleasure and pain are fleeting, arising from the interaction of senses with objects. He advises Arjuna to tolerate these transient states without attachment. This sloka introduces equanimity, a key principle for performing duty in Karma Yoga, helping Arjuna detach from emotional reactions to war’s hardships."
+      },
+      "slok15": {
+        "sanskrit": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ। समदुःखसुखं धीरं सोऽमृतत्वाय कल्पति।।2.15।।",
+        "transliteration": "yaṁ hi na vyathayanty ete puruṣaṁ puruṣarṣabha, sama-duḥkha-sukhaṁ dhīraṁ so ’mṛtatvāya kalpati",
+        "meaning": "The person whom these (pleasure and pain) do not disturb, O best of men, who remains equal in pain and pleasure and steadfast, is fit for immortality.",
+        "explanation": "Krishna praises the steadfast person who remains undisturbed by dualities, maintaining equanimity. Such a person, described as dhira (steady-minded), is eligible for liberation (immortality). This sloka emphasizes the spiritual reward of detachment, encouraging Arjuna to cultivate balance to perform his warrior duties without being swayed by emotions."
+      },
+      "slok16": {
+        "sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः। उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।2.16।।",
+        "transliteration": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ, ubhayor api dṛṣṭo ’ntas tv anayos tattva-darśibhiḥ",
+        "meaning": "The unreal has no existence, and the real never ceases to be. The truth of both has been perceived by the seers of truth.",
+        "explanation": "Krishna distinguishes between the unreal (temporary, like the body) and the real (eternal, like the soul). Seers understand that only the soul is permanent. This sloka deepens Sankhya philosophy, reinforcing that Arjuna’s grief for the body is misplaced, as the soul’s eternal nature transcends physical death, guiding him toward duty."
+      },
+      "slok17": {
+        "sanskrit": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्। विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति।।2.17।।",
+        "transliteration": "avināśi tu tad viddhi yena sarvam idaṁ tatam, vināśam avyayasyāsya na kaścit kartum arhati",
+        "meaning": "Know that which pervades all this to be indestructible. No one can destroy this imperishable (soul).",
+        "explanation": "Krishna emphasizes the soul’s indestructible nature, which pervades all existence. Nothing can harm it, unlike the body. This sloka strengthens Arjuna’s understanding of the soul’s invincibility, alleviating his fear of killing or being killed in battle, as the soul remains unaffected, aligning with Sankhya’s focus on eternal truth."
+      },
+      "slok18": {
+        "sanskrit": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः। अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत।।2.18।।",
+        "transliteration": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ, anāśino ’prameyasya tasmād yudhyasva bhārata",
+        "meaning": "These bodies of the eternal, indestructible, and immeasurable soul are perishable. Therefore, fight, O Bharata.",
+        "explanation": "Krishna contrasts the perishable body with the eternal soul, which is indestructible and beyond comprehension. Since only the body dies, Arjuna should fight, fulfilling his duty as a warrior. This sloka directly applies Sankhya philosophy to Arjuna’s situation, urging him to act without fear of death, as the soul remains eternal."
+      },
+      "slok19": {
+        "sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्। उभौ तौ न विजानीतो नायं हन्ति न हन्यते।।2.19।।",
+        "transliteration": "ya enaṁ vetti hantāraṁ yaś cainaṁ manyate hatam, ubhau tau na vijānīto nāyaṁ hanti na hanyate",
+        "meaning": "One who thinks this (soul) slays and one who thinks it is slain—both are ignorant. It neither slays nor is slain.",
+        "explanation": "Krishna clarifies that the soul is neither a killer nor can it be killed, as it is beyond physical actions. Misconceptions about death arise from ignorance of the soul’s nature. This sloka dispels Arjuna’s guilt about killing, reinforcing that his actions in battle affect only bodies, not souls, encouraging him to perform his duty."
+      },
+      "slok20": {
+        "sanskrit": "न जायते म्रियते वा कदाचिन् नायं भूत्वा भविता वा न भूयः। अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे।।2.20।।",
+        "transliteration": "na jāyate mriyate vā kadācin nāyaṁ bhūtvā bhavitā vā na bhūyaḥ, ajo nityaḥ śāśvato ’yaṁ purāṇo na hanyate hanyamāne śarīre",
+        "meaning": "The soul is never born nor dies, nor does it come into being again once it has been. It is unborn, eternal, everlasting, and ancient; it is not killed when the body is killed.",
+        "explanation": "Krishna elaborates on the soul’s eternal qualities: unborn, undying, and unchanging. Even when the body dies, the soul remains unaffected. This sloka is a cornerstone of Sankhya philosophy, reassuring Arjuna that death is an illusion for the soul, urging him to fight without fear of causing or suffering permanent loss."
+      },
+      "slok21": {
+        "sanskrit": "वेदाविनाशिनं नित्यं य एनमजमव्ययम्। कथं स पुरुषः पार्थ कं घातयति हन्ति कम्।।2.21।।",
+        "transliteration": "vedāvināśinaṁ nityaṁ ya enam ajam avyayam, kathaṁ sa puruṣaḥ pārtha kaṁ ghātayati hanti kam",
+        "meaning": "O Partha, how can one who knows the soul to be indestructible, eternal, unborn, and imperishable cause anyone to be killed or kill anyone?",
+        "explanation": "Krishna questions how a person aware of the soul’s eternal nature could fear killing or being killed. Since the soul is unaffected, actions in battle do not harm it. This sloka challenges Arjuna’s moral concerns, reinforcing that his duty as a warrior involves acting on the physical plane without affecting the soul’s immortality."
+      },
+      "slok22": {
+        "sanskrit": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि। तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही।।2.22।।",
+        "transliteration": "vāsāṁsi jīrṇāni yathā vihāya navāni gṛhṇāti naro ’parāṇi, tathā śarīrāṇi vihāya jīrṇāny anyāni saṁyāti navāni dehī",
+        "meaning": "As a person discards worn-out clothes and puts on new ones, so the embodied soul discards old bodies and enters new ones.",
+        "explanation": "Krishna uses the metaphor of changing clothes to describe the soul’s transition between bodies. Just as one replaces old garments, the soul takes new bodies, unaffected by physical death. This sloka vividly illustrates reincarnation, a key Sankhya concept, encouraging Arjuna to view death as a natural process and focus on his duty."
+      },
+      "slok23": {
+        "sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः। न चैनं क्लेदयन्त्यापो न शोषयति मारुतः।।2.23।।",
+        "transliteration": "nainaṁ chindanti śastrāṇi nainaṁ dahati pāvakaḥ, na cainaṁ kledayanty āpo na śoṣayati mārutaḥ",
+        "meaning": "Weapons cannot cut it, fire cannot burn it, water cannot wet it, nor can wind dry it.",
+        "explanation": "Krishna describes the soul’s invulnerability to material elements—weapons, fire, water, and wind—emphasizing its non-physical nature. This sloka reinforces the soul’s indestructibility, alleviating Arjuna’s fear of harming others in battle, as no weapon can touch the soul, aligning with Sankhya’s focus on the soul’s transcendence."
+      },
+      "slok24": {
+        "sanskrit": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽयमशोष्य एव च। नित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः।।2.24।।",
+        "transliteration": "acchedyo ’yam adāhyo ’yam akledyo ’yam aśoṣya eva ca, nityaḥ sarva-gataḥ sthāṇur acalo ’yaṁ sanātanaḥ",
+        "meaning": "It is uncleavable, unburnable, unwettable, and undriable. It is eternal, all-pervading, stable, immovable, and everlasting.",
+        "explanation": "Krishna further elaborates on the soul’s qualities, emphasizing its eternal, unchanging, and all-pervading nature. These attributes highlight the soul’s transcendence over material limitations. This sloka strengthens Arjuna’s understanding of the soul’s permanence, urging him to act without attachment to the temporary body, a key step toward Karma Yoga."
+      },
+      "slok25": {
+        "sanskrit": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते। तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि।।2.25।।",
+        "transliteration": "avyakto ’yam acintyo ’yam avikāryo ’yam ucyate, tasmād evaṁ viditvainaṁ nānuśocitum arhasi",
+        "meaning": "It is said to be unmanifest, inconceivable, and unchangeable. Therefore, knowing it as such, you should not grieve.",
+        "explanation": "Krishna describes the soul as unmanifest (beyond perception), inconceivable (beyond thought), and unchangeable. This knowledge should prevent Arjuna from grieving over the death of bodies. This sloka concludes the initial discussion of the soul’s nature, urging Arjuna to apply this wisdom to overcome his sorrow and perform his duty."
+      },
+      "slok26": {
+        "sanskrit": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम्। तथापि त्वं महाबाहो नैवं शोचितुमर्हसि।।2.26।।",
+        "transliteration": "atha cainaṁ nitya-jātaṁ nityaṁ vā manyase mṛtam, tathāpi tvaṁ mahā-bāho naivaṁ śocitum arhasi",
+        "meaning": "Even if you think this (soul) is constantly born and constantly dies, even then, O mighty-armed, you should not grieve.",
+        "explanation": "Krishna offers an alternative perspective: even if Arjuna believes the soul undergoes repeated birth and death (unlike its eternal nature), grief is still unwarranted, as death is inevitable in such a cycle. This sloka broadens the argument, appealing to Arjuna’s possible beliefs to show that grieving is futile, urging him to focus on duty."
+      },
+      "slok27": {
+        "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च। तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि।।2.27।।",
+        "transliteration": "jātasya hi dhruvo mṛtyur dhruvaṁ janma mṛtasya ca, tasmād aparihārye ’rthe na tvaṁ śocitum arhasi",
+        "meaning": "For one who is born, death is certain, and for one who dies, birth is certain. Therefore, you should not grieve over the inevitable.",
+        "explanation": "Krishna explains the inevitability of birth and death in the material world, a natural cycle. Since these are unavoidable, grieving over them is pointless. This sloka encourages Arjuna to accept the transient nature of life and focus on his warrior duty, aligning with the practical application of Sankhya wisdom."
+      },
+      "slok28": {
+        "sanskrit": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत। अव्यक्तनिधनान्येव तत्र का परिदेवना।।2.28।।",
+        "transliteration": "avyaktādīni bhūtāni vyakta-madhyāni bhārata, avyakta-nidhanāny eva tatra kā paridevanā",
+        "meaning": "O Bharata, beings are unmanifest in their beginning, manifest in their middle, and unmanifest again in their end. Why lament over this?",
+        "explanation": "Krishna describes the cycle of existence: beings are unmanifest (invisible) before birth, manifest during life, and unmanifest after death. This natural process does not warrant grief. This sloka reinforces the impermanence of the physical form, urging Arjuna to transcend attachment and perform his duty with detachment."
+      },
+      "slok29": {
+        "sanskrit": "आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्यः। आश्चर्यवच्चैनमन्यः शृणोति श्रुत्वाप्येनं वेद न चैव कश्चित्।।2.29।।",
+        "transliteration": "āścaryavat paśyati kaścid enam āścaryavad vadati tathaiva cānyaḥ, āścaryavac cainam anyaḥ śṛṇoti śrutvāpy enaṁ veda na caiva kaścit",
+        "meaning": "Some behold the soul as a marvel, some speak of it as a marvel, and some hear of it as a marvel, yet even after hearing, few truly know it.",
+        "explanation": "Krishna highlights the soul’s mysterious nature, which is perceived, described, and heard as wondrous, yet rarely understood. This sloka emphasizes the soul’s profound reality, encouraging Arjuna to seek true knowledge of the self through Krishna’s teachings, which will guide him to act wisely in battle."
+      },
+      "slok30": {
+        "sanskrit": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत। तस्मात्सर्वं न त्वं शोचितुमर्हसि।।2.30।।",
+        "transliteration": "dehī nityam avadhyo ’yaṁ dehe sarvasya bhārata, tasmāt sarvaṁ na tvaṁ śocitum arhasi",
+        "meaning": "O Bharata, the soul within everyone’s body is eternal and indestructible. Therefore, you should not grieve for any being.",
+        "explanation": "Krishna reiterates that the soul, present in all bodies, is eternal and cannot be destroyed. Thus, Arjuna’s grief for his kin is misplaced. This sloka summarizes the Sankhya argument, urging Arjuna to overcome sorrow and perform his duty, as the soul’s immortality transcends physical loss."
+      },
+      "slok31": {
+        "sanskrit": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि। धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते।।2.31।।",
+        "transliteration": "sva-dharmam api cāvekṣya na vikampitum arhasi, dharmyāddhi yuddhāc chreyo ’nyat kṣatriyasya na vidyate",
+        "meaning": "Considering your own duty, you should not waver, for there is nothing better for a Kshatriya than a righteous battle.",
+        "explanation": "Krishna shifts to the practical aspect of duty (sva-dharma), reminding Arjuna that as a Kshatriya (warrior), fighting in a just war is his sacred responsibility. This sloka introduces Karma Yoga, emphasizing that fulfilling one’s dharma is superior to hesitation, motivating Arjuna to embrace his role without doubt."
+      },
+      "slok32": {
+        "sanskrit": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम्। सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम्।।2.32।।",
+        "transliteration": "yadṛcchayā copapannaṁ svarga-dvāram apāvṛtam, sukhinaḥ kṣatriyāḥ pārtha labhante yuddham īdṛśam",
+        "meaning": "O Partha, fortunate are the Kshatriyas who gain such a battle, which comes unsought and opens the gates to heaven.",
+        "explanation": "Krishna describes the battle as a rare opportunity for a Kshatriya, as it is both righteous and unsolicited, leading to spiritual merit or heaven. This sloka highlights the privilege of Arjuna’s situation, encouraging him to seize this chance to fulfill his duty, reinforcing the honor and spiritual reward of Karma Yoga."
+      },
+      "slok33": {
+        "sanskrit": "अथ चेत्त्वमिमं धर्म्यं सङ्ग्रामं न करिष्यसि। ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि।।2.33।।",
+        "transliteration": "atha cet tvam imaṁ dharmyaṁ saṅgrāmaṁ na kariṣyasi, tataḥ sva-dharmaṁ kīrtiṁ ca hitvā pāpam avāpsyasi",
+        "meaning": "But if you do not fight this righteous battle, you will abandon your duty and fame, and incur sin.",
+        "explanation": "Krishna warns that refusing to fight would lead Arjuna to forsake his Kshatriya duty and reputation, resulting in sin. This sloka underscores the consequences of neglecting dharma, emphasizing that inaction is not neutral but harmful, urging Arjuna to act in accordance with Karma Yoga to avoid spiritual and social downfall."
+      },
+      "slok34": {
+        "sanskrit": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम्। सम्भावितस्य चाकीर्तिर्मरणात्स्वधिकतरं भवति।।2.34।।",
+        "transliteration": "akīrtiṁ cāpi bhūtāni kathayiṣyanti te ’vyayām, sambhāvitasya cākīrtir maraṇāt svadhikataraṁ bhavati",
+        "meaning": "People will forever speak of your infamy, and for one who has been honored, dishonor is worse than death.",
+        "explanation": "Krishna highlights the social consequence of Arjuna’s refusal: lasting infamy. For a respected warrior, dishonor is more painful than death. This sloka appeals to Arjuna’s sense of honor, reinforcing that fulfilling his duty is essential to maintain his reputation, aligning with the societal aspect of Karma Yoga."
+      },
+      "slok35": {
+        "sanskrit": "भयाद्रणातुपरतं मंस्यन्ते त्वां महारथाः। येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम्।।2.35।।",
+        "transliteration": "bhayād raṇāt uparataṁ maṁsyante tvāṁ mahārathāḥ, yeṣāṁ ca tvaṁ bahumato bhūtvā yāsyasi lāghavam",
+        "meaning": "The great warriors will think you fled from battle out of fear, and those who once esteemed you will hold you in contempt.",
+        "explanation": "Krishna warns that Arjuna’s retreat would be seen as cowardice by other warriors, diminishing his esteemed status. This sloka emphasizes the loss of respect among peers, motivating Arjuna to fight to preserve his honor. It underscores the importance of courage in fulfilling one’s dharma, a key aspect of Karma Yoga."
+      },
+      "slok36": {
+        "sanskrit": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः। निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम्।।2.36।।",
+        "transliteration": "avācya-vādāṁś ca bahūn vadiṣyanti tavāhitāḥ, nindantas tava sāmarthyaṁ tato duḥkhataraṁ nu kim",
+        "meaning": "Your enemies will speak many harsh words, slandering your prowess. What could be more painful than that?",
+        "explanation": "Krishna points out that Arjuna’s enemies will mock his abilities, causing greater pain than physical harm. This sloka intensifies the social pressure on Arjuna, highlighting the emotional toll of slander. It reinforces the need to uphold his duty to avoid such humiliation, aligning with the motivational aspect of Karma Yoga."
+      },
+      "slok37": {
+        "sanskrit": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम्। तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः।।2.37।।",
+        "transliteration": "hato vā prāpsyasi svargaṁ jitvā vā bhokṣyase mahīm, tasmād uttiṣṭha kaunteya yuddhāya kṛta-niścayaḥ",
+        "meaning": "If you are killed, you will attain heaven; if you conquer, you will enjoy the earth. Therefore, arise, O son of Kunti, resolved to fight.",
+        "explanation": "Krishna presents a win-win scenario: death in battle leads to heaven, while victory grants earthly rule. This sloka motivates Arjuna by showing that fighting has no downside, encouraging resolute action. It aligns with Karma Yoga by focusing on duty without attachment to outcomes, urging Arjuna to embrace the battle."
+      },
+      "slok38": {
+        "sanskrit": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ। ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि।।2.38।।",
+        "transliteration": "sukha-duḥkhe same kṛtvā lābhālābhau jayājayau, tato yuddhāya yujyasva naivaṁ pāpam avāpsyasi",
+        "meaning": "Treating pleasure and pain, gain and loss, victory and defeat alike, engage in battle. Thus, you will not incur sin.",
+        "explanation": "Krishna advises Arjuna to fight with equanimity, unaffected by dualities like pleasure or pain. This detached approach ensures his actions are sinless, as they align with dharma. This sloka introduces the principle of balanced action in Karma Yoga, emphasizing that selfless duty, free from personal motives, leads to spiritual purity."
+      },
+      "slok39": {
+        "sanskrit": "एषा तेऽभिहिता साङ्ख्यं बुद्धिर्योगे त्विमां शृणु। बुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि।।2.39।।",
+        "transliteration": "eṣā te ’bhihitā sāṅkhyaṁ buddhir yoge tv imāṁ śṛṇu, buddhyā yukto yayā pārtha karma-bandhaṁ prahāsyasi",
+        "meaning": "This is the wisdom of Sankhya imparted to you. Now hear about the wisdom of Yoga, by which, O Partha, you will break the bonds of karma.",
+        "explanation": "Krishna transitions from Sankhya (knowledge of the soul) to Yoga (the discipline of action), promising that this wisdom will free Arjuna from karmic bondage. This sloka marks a shift to Karma Yoga, introducing the practical application of Sankhya principles through disciplined action, setting the stage for the next teachings."
+      },
+      "slok40": {
+        "sanskrit": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते। स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्।।2.40।।",
+        "transliteration": "nehābhikrama-nāśo ’sti pratyavāyo na vidyate, svalpam apy asya dharmasya trāyate mahato bhayāt",
+        "meaning": "In this (Yoga), there is no loss of effort, nor is there any adverse effect. Even a little of this dharma protects from great fear.",
+        "explanation": "Krishna assures that practicing Karma Yoga incurs no loss, as even minimal effort yields spiritual benefits and protects from the fear of samsara (cycle of birth and death). This sloka encourages Arjuna to engage in selfless action, highlighting the safety and efficacy of Karma Yoga as a path to liberation."
+      },
+      "slok41": {
+        "sanskrit": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन। बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम्।।2.41।।",
+        "transliteration": "vyavasāyātmikā buddhir ekeha kurunandana, bahu-śākhā hy anantāś ca buddhayo ’vyavasāyinām",
+        "meaning": "O joy of the Kurus, the resolute intellect is one-pointed in this (Yoga), but the intellects of the irresolute are many-branched and endless.",
+        "explanation": "Krishna contrasts the focused mind of a Karma Yogi, fixed on selfless duty, with the scattered minds of those driven by desires, leading to endless distractions. This sloka emphasizes the importance of single-minded determination in Karma Yoga, urging Arjuna to cultivate a resolute intellect to fulfill his duty."
+      },
+      "slok42": {
+        "sanskrit": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः। वेदवादरताः पार्थ नान्यदस्तीति वादिनः।।2.42।।",
+        "transliteration": "yām imāṁ puṣpitāṁ vācaṁ pravadanty avipaścitaḥ, veda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ",
+        "meaning": "O Partha, the ignorant, delighting in the flowery words of the Vedas, declare there is nothing else.",
+        "explanation": "Krishna criticizes those who focus solely on the ritualistic, reward-seeking aspects of the Vedas, ignoring higher spiritual truths. Their flowery speech reflects material desires. This sloka warns Arjuna against superficial pursuits, urging him to seek the deeper wisdom of Karma Yoga, which transcends Vedic rituals for liberation."
+      },
+      "slok43": {
+        "sanskrit": "कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम्। क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति।।2.43।।",
+        "transliteration": "kāmātmānaḥ svarga-parā janma-karma-phala-pradām, kriyā-viśeṣa-bahulāṁ bhogaiśvarya-gatiṁ prati",
+        "meaning": "Full of desires, intent on heaven, they pursue actions yielding birth and rewards, performing numerous rituals for pleasure and power.",
+        "explanation": "Krishna describes those driven by desires, seeking heavenly rewards and material gains through Vedic rituals. Their focus on pleasure and power binds them to the cycle of birth. This sloka contrasts with Karma Yoga’s selfless action, urging Arjuna to act without attachment to outcomes, aiming for spiritual liberation."
+      },
+      "slok44": {
+        "sanskrit": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम्। व्यवसायात्मिका बुद्धिः समाधौ न विधीयते।।2.44।।",
+        "transliteration": "bhogaiśvarya-prasaktānāṁ tayāpahṛta-cetasām, vyavasāyātmikā buddhiḥ samādhau na vidhīyate",
+        "meaning": "For those attached to pleasure and power, whose minds are carried away by such (flowery words), a resolute intellect fixed in concentration is not established.",
+        "explanation": "Krishna explains that those obsessed with material rewards lack the focused intellect needed for spiritual concentration (samadhi). Their minds are distracted by desires. This sloka reinforces the need for Arjuna to cultivate a steady mind through Karma Yoga, free from material attachments, to achieve spiritual clarity."
+      },
+      "slok45": {
+        "sanskrit": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन। निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान्।।2.45।।",
+        "transliteration": "traiguṇya-viṣayā vedā nistraiguṇyo bhavārjuna, nirdvandvo nitya-sattva-stho niryoga-kṣema ātmavān",
+        "meaning": "The Vedas deal with the three gunas; be free from the three gunas, O Arjuna, free from dualities, established in eternal purity, unattached to possessions, and self-possessed.",
+        "explanation": "Krishna advises Arjuna to transcend the three gunas (sattva, rajas, tamas) that govern material existence, as described in the Vedas. He urges freedom from dualities, purity, and detachment from material security. This sloka introduces the state of transcendence required for Karma Yoga, guiding Arjuna toward spiritual self-realization."
+      },
+      "slok46": {
+        "sanskrit": "यावानर्थ उदपाने सर्वतः सम्प्लुतोदके। तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः।।2.46।।",
+        "transliteration": "yāvān artha udapāne sarvataḥ samplutodake, tāvān sarveṣu vedeṣu brāhmaṇasya vijānataḥ",
+        "meaning": "As much use as a well has when there is water flooding everywhere, so is the use of all Vedas for a knower of Brahman.",
+        "explanation": "Krishna compares the limited utility of Vedic rituals to a well when water is abundant. For one who knows Brahman (the ultimate reality), the Vedas’ ritualistic aspects are secondary to spiritual wisdom. This sloka encourages Arjuna to seek higher knowledge through Karma Yoga, transcending ritualistic pursuits for self-realization."
+      },
+      "slok47": {
+        "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।2.47।।",
+        "transliteration": "karmaṇy evādhikāras te mā phaleṣu kadācana, mā karma-phala-hetur bhūr mā te saṅgo ’stv akarmaṇi",
+        "meaning": "You have a right to perform your prescribed duty, but not to the fruits of action. Never consider yourself the cause of the results, nor be attached to inaction.",
+        "explanation": "This iconic sloka encapsulates Karma Yoga’s essence: Arjuna should focus on performing his duty without attachment to outcomes, as results are not in his control. He should neither claim doership nor avoid action. This teaching liberates Arjuna from anxiety, urging him to fight selflessly, aligning actions with dharma."
+      },
+      "slok48": {
+        "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते।।2.48।।",
+        "transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya, siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga ucyate",
+        "meaning": "Perform actions, O Dhananjaya, established in Yoga, abandoning attachment, and being equipoised in success and failure. Equanimity is called Yoga.",
+        "explanation": "Krishna defines Yoga as equanimity, urging Arjuna to act with a balanced mind, unaffected by success or failure. This sloka emphasizes that true Karma Yoga involves performing duties with detachment and inner stability, guiding Arjuna to fight with a steady, focused mind, free from emotional swings."
+      },
+      "slok49": {
+        "sanskrit": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय। बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः।।2.49।।",
+        "transliteration": "dūreṇa hy avaraṁ karma buddhi-yogād dhanañjaya, buddhau śaraṇam anviccha kṛpaṇāḥ phala-hetavaḥ",
+        "meaning": "Far inferior is action (driven by desire) compared to the Yoga of wisdom, O Dhananjaya. Seek refuge in wisdom; wretched are those motivated by results.",
+        "explanation": "Krishna contrasts selfish action with action guided by wisdom (buddhi-yoga), which is superior. Those obsessed with results are pitiable, as they remain bound. This sloka urges Arjuna to adopt the disciplined intellect of Karma Yoga, seeking wisdom to perform his duty without attachment, leading to spiritual freedom."
+      },
+      "slok50": {
+        "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते। तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्।।2.50।।",
+        "transliteration": "buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte, tasmād yogāya yujyasva yogaḥ karmasu kauśalam",
+        "meaning": "One endowed with wisdom abandons both good and evil deeds here. Therefore, devote yourself to Yoga; Yoga is skill in action.",
+        "explanation": "Krishna explains that a wise person, practicing Karma Yoga, transcends the effects of both good and bad karma. Yoga is described as skillful action, performed with wisdom and detachment. This sloka motivates Arjuna to master Karma Yoga, performing his warrior duties skillfully to achieve liberation from karmic bondage."
+      },
+      "slok51": {
+        "sanskrit": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः। जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्।।2.51।।",
+        "transliteration": "karma-jaṁ buddhi-yuktā hi phalaṁ tyaktvā manīṣiṇaḥ, janma-bandha-vinirmuktāḥ padaṁ gacchanty anāmayam",
+        "meaning": "The wise, endowed with wisdom, renouncing the fruits of action, are freed from the bondage of birth and attain the state free from sorrow.",
+        "explanation": "Krishna promises that those who act with wisdom, detached from results, escape the cycle of birth and death, reaching a state of eternal peace. This sloka highlights the ultimate goal of Karma Yoga—liberation—encouraging Arjuna to fight selflessly to attain this sorrow-free state, aligning with spiritual wisdom."
+      },
+      "slok52": {
+        "sanskrit": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति। तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च।।2.52।।",
+        "transliteration": "yadā te moha-kalilaṁ buddhir vyatitariṣyati, tadā gantāsi nirvedaṁ śrotavyasya śrutasya ca",
+        "meaning": "When your intellect crosses the mire of delusion, you will attain indifference to what has been heard and what is yet to be heard.",
+        "explanation": "Krishna assures Arjuna that transcending delusion through wisdom will lead to detachment from worldly knowledge, both past and future. This sloka points to the clarity gained through Karma Yoga, where Arjuna’s mind, freed from confusion, will focus on eternal truth, enabling him to act with spiritual insight."
+      },
+      "slok53": {
+        "sanskrit": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला। समाधावचला बुद्धिस्तदा योगमवाप्स्यसि।।2.53।।",
+        "transliteration": "śruti-vipratipannā te yadā sthāsyati niścalā, samādhāv acalā buddhis tadā yogam avāpsyasi",
+        "meaning": "When your intellect, bewildered by Vedic knowledge, becomes steady and fixed in concentration, then you will attain Yoga.",
+        "explanation": "Krishna describes the state of a steady intellect, undisturbed by conflicting Vedic teachings, focused in samadhi (spiritual absorption). This marks the attainment of true Yoga. This sloka encourages Arjuna to achieve mental stability through Karma Yoga, enabling him to act with unwavering focus and spiritual unity."
+      },
+      "slok54": {
+        "sanskrit": "अर्जुन उवाच। स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव। स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम्।।2.54।।",
+        "transliteration": "arjuna uvāca sthita-prajñasya kā bhāṣā samādhi-sthasya keśava, sthita-dhīḥ kiṁ prabhāṣeta kim āsīta vrajeta kim",
+        "meaning": "Arjuna said: O Keshava, what is the description of a person of steady wisdom, established in samadhi? How does such a person speak, sit, and move?",
+        "explanation": "Intrigued by Krishna’s teachings, Arjuna asks about the characteristics of a sthitaprajna (person of steady wisdom), seeking to understand their behavior and demeanor. This sloka shifts the focus to the practical manifestation of wisdom, prompting Krishna to describe the ideal state of a Karma Yogi, fully realized in spiritual stability."
+      },
+      "slok55": {
+        "sanskrit": "श्रीभगवानुवाच। प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान्। आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते।।2.55।।",
+        "transliteration": "śrī bhagavān uvāca prajahāti yadā kāmān sarvān pārtha mano-gatān, ātmany evātmanā tuṣṭaḥ sthita-prajñas tadocyate",
+        "meaning": "The Supreme Lord said: O Partha, when one abandons all desires of the mind and is satisfied in the self by the self, then one is called a person of steady wisdom.",
+        "explanation": "Krishna begins describing the sthitaprajna, stating that such a person relinquishes all mental desires and finds contentment within the self. This sloka highlights inner fulfillment as a hallmark of wisdom, guiding Arjuna toward the goal of Karma Yoga: achieving detachment and self-satisfaction to perform duties with stability."
+      },
+      "slok56": {
+        "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः। वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते।।2.56।।",
+        "transliteration": "duḥkheṣv anudvigna-manāḥ sukheṣu vigata-spṛhaḥ, vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir ucyate",
+        "meaning": "One whose mind is undisturbed in sorrow, who does not crave pleasure, and is free from attachment, fear, and anger is called a sage of steady wisdom.",
+        "explanation": "Krishna further describes the sthitaprajna as one who remains calm in adversity, indifferent to pleasure, and free from emotional disturbances like attachment, fear, and anger. This sloka emphasizes emotional stability, a key trait for a Karma Yogi, encouraging Arjuna to cultivate these qualities to act with wisdom in battle."
+      },
+      "slok57": {
+        "sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्। नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता।।2.57।।",
+        "transliteration": "yaḥ sarvatrānabhisnehas tat tat prāpya śubhāśubham, nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā",
+        "meaning": "One who is unattached everywhere, who neither rejoices nor hates when encountering good or evil, has firmly established wisdom.",
+        "explanation": "The sthitaprajna remains detached, neither celebrating nor resenting life’s ups and downs. This impartiality reflects a stable intellect. This sloka reinforces the importance of equanimity in Karma Yoga, guiding Arjuna to act without emotional bias, ensuring his actions align with dharma and spiritual wisdom."
+      },
+      "slok58": {
+        "sanskrit": "यदा संनादति चायं कूर्मोऽङ्गानीव सर्वशः। इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता।।2.58।।",
+        "transliteration": "yadā saṁharati cāyaṁ kūrmo ’ṅgānīva sarvaśaḥ, indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā",
+        "meaning": "When one withdraws the senses from sense objects, as a tortoise retracts its limbs, their wisdom is firmly established.",
+        "explanation": "Krishna uses the metaphor of a tortoise withdrawing its limbs to describe the sthitaprajna’s control over senses, avoiding sensory distractions. This sloka emphasizes sense discipline as essential for steady wisdom, urging Arjuna to master his senses to perform duties with focus, a practical aspect of Karma Yoga."
+      },
+      "slok59": {
+        "sanskrit": "विषया विनिवर्तन्ते निराहारस्य देहिनः। रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तति।।2.59।।",
+        "transliteration": "viṣayā vinivartante nirāhārasya dehinaḥ, rasa-varjaṁ raso ’py asya paraṁ dṛṣṭvā nivartati",
+        "meaning": "Sense objects fade for the embodied being who abstains from them, but the taste for them remains. Even this taste ceases when the Supreme is seen.",
+        "explanation": "Krishna explains that while abstaining from sense objects reduces their allure, the lingering desire (taste) persists until one experiences the Supreme (God). This sloka highlights the transformative power of spiritual realization, encouraging Arjuna to seek divine vision through Karma Yoga to overcome sensory attachments completely."
+      },
+      "slok60": {
+        "sanskrit": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः। इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः।।2.60।।",
+        "transliteration": "yatato hy api kaunteya puruṣasya vipaścitaḥ, indriyāṇi pramāthīni haranti prasabhaṁ manaḥ",
+        "meaning": "O son of Kunti, the turbulent senses forcibly carry away the mind of even a wise person striving for control.",
+        "explanation": "Krishna warns that the senses are powerful, capable of disturbing even a disciplined mind. This sloka acknowledges the challenge of sense control, urging Arjuna to remain vigilant in practicing Karma Yoga. It emphasizes the need for persistent effort to master the senses, ensuring actions remain aligned with dharma."
+      },
+      "slok61": {
+        "sanskrit": "तानि सर्वं संनादति युक्तः स्मरन्कृष्णमचलति। तस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः।।2.61।।",
+        "transliteration": "tāni sarvaṁ saṁyamya yuktaḥ smaran kṛṣṇam acalati, tasyāhaṁ sulabhaḥ pārtha nitya-yuktasya yoginaḥ",
+        "meaning": "Controlling all the senses and remembering Me, one remains steady. I am easily attainable by the ever-steadfast Yogi, O Partha.",
+        "explanation": "Krishna advises Arjuna to control the senses by fixing the mind on Him, achieving stability. Such a devoted Yogi easily attains Krishna. This sloka introduces the element of devotion (Bhakti) in Karma Yoga, encouraging Arjuna to dedicate his actions to Krishna, ensuring spiritual success through focused meditation."
+      },
+      "slok62": {
+        "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते। सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते।।2.62।।",
+        "transliteration": "dhyāyato viṣayān puṁsaḥ saṅgas teṣūpajāyate, saṅgāt sañjāyate kāmaḥ kāmāt krodho ’bhijāyate",
+        "meaning": "When a person dwells on sense objects, attachment to them arises. From attachment comes desire, and from desire arises anger.",
+        "explanation": "Krishna outlines the chain of degradation: contemplating sense objects leads to attachment, then desire, and unfulfilled desire results in anger. This sloka warns Arjuna of the dangers of sensory indulgence, emphasizing the need for detachment in Karma Yoga to prevent emotional turmoil that disrupts duty."
+      },
+      "slok63": {
+        "sanskrit": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः। स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति।।2.63।।",
+        "transliteration": "krodhād bhavati sammohaḥ sammohāt smṛti-vibhramaḥ, smṛti-bhraṁśād buddhi-nāśo buddhi-nāśāt praṇaśyati",
+        "meaning": "From anger arises delusion, from delusion loss of memory, from loss of memory destruction of intellect, and from that, one perishes.",
+        "explanation": "Krishna continues the chain: anger causes delusion, which disrupts memory of spiritual truths, leading to loss of intellect and ultimate ruin. This sloka highlights the destructive consequences of uncontrolled emotions, urging Arjuna to practice sense control and detachment in Karma Yoga to preserve wisdom and fulfill his duty."
+      },
+      "slok64": {
+        "sanskrit": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन्। आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति।।2.64।।",
+        "transliteration": "rāga-dveṣa-viyuktais tu viṣayān indriyaiś caran, ātma-vaśyair vidheyātmā prasādam adhigacchati",
+        "meaning": "But one who moves among sense objects with senses controlled, free from attachment and aversion, with a disciplined mind, attains serenity.",
+        "explanation": "Krishna describes the serene state of a person who engages with sense objects without attachment or aversion, maintaining self-control. This sloka contrasts with the previous ones, showing the positive outcome of sense discipline in Karma Yoga, encouraging Arjuna to achieve inner peace to perform his duties effectively."
+      },
+      "slok65": {
+        "sanskrit": "प्रसादे सर्वदुःखानां हानिरस्योपजायते। प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठति।।2.65।।",
+        "transliteration": "prasāde sarva-duḥkhānāṁ hānir asyopajāyate, prasanna-cetaso hy āśu buddhiḥ paryavatiṣṭhati",
+        "meaning": "In that serenity, all sorrows are destroyed. For one with a serene mind, the intellect quickly becomes steady.",
+        "explanation": "Krishna explains that serenity eliminates all suffering, stabilizing the intellect. This sloka highlights the spiritual benefit of inner peace, a result of practicing Karma Yoga with detachment. It motivates Arjuna to cultivate a calm mind to gain clarity and wisdom, enabling him to act with resolve in battle."
+      },
+      "slok66": {
+        "sanskrit": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना। न चाभावयतः शान्तिरशान्तस्य कुतः सुखम्।।2.66।।",
+        "transliteration": "nāsti buddhir ayuktasya na cāyuktasya bhāvanā, na cābhāvayataḥ śāntir aśāntasya kutaḥ sukham",
+        "meaning": "There is no wisdom for the uncontrolled, nor contemplation for the uncontrolled, nor peace for one without contemplation. How can there be happiness without peace?",
+        "explanation": "Krishna outlines the consequences of lacking self-control: no wisdom, no contemplation, no peace, and thus no happiness. This sloka emphasizes the importance of discipline in Karma Yoga, warning Arjuna that without controlling his mind and senses, he cannot achieve the peace needed to perform his duties effectively."
+      },
+      "slok67": {
+        "sanskrit": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते। तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि।।2.67।।",
+        "transliteration": "indriyāṇāṁ hi caratāṁ yan mano ’nuvidhīyate, tad asya harati prajñāṁ vāyur nāvam ivāmbhasi",
+        "meaning": "The mind that follows wandering senses carries away one’s wisdom, like the wind carries away a boat on water.",
+        "explanation": "Krishna uses the metaphor of a boat swayed by wind to describe how an uncontrolled mind, chasing senses, destroys wisdom. This sloka reinforces the need for sense control in Karma Yoga, urging Arjuna to anchor his mind to maintain intellectual clarity and perform his warrior duties with focus."
+      },
+      "slok68": {
+        "sanskrit": "तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः। इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता।।2.68।।",
+        "transliteration": "tasmād yasya mahā-bāho nigṛhītāni sarvaśaḥ, indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā",
+        "meaning": "Therefore, O mighty-armed, one whose senses are fully restrained from sense objects has firmly established wisdom.",
+        "explanation": "Krishna concludes the discussion on sense control, stating that complete restraint of senses leads to steady wisdom. This sloka emphasizes discipline as a prerequisite for the sthitaprajna state, encouraging Arjuna to master his senses to achieve the intellectual stability needed for selfless action in Karma Yoga."
+      },
+      "slok69": {
+        "sanskrit": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी। यस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः।।2.69।।",
+        "transliteration": "yā niśā sarva-bhūtānāṁ tasyāṁ jāgarti saṁyamī, yasyāṁ jāgrati bhūtāni sā niśā paśyato muneḥ",
+        "meaning": "What is night for all beings is day for the disciplined sage, and what is day for all beings is night for the seer.",
+        "explanation": "Krishna contrasts the sage’s perspective with that of ordinary beings: while others are ‘asleep’ in spiritual ignorance, the sage is awake in wisdom, and vice versa. This poetic sloka highlights the enlightened state of a Karma Yogi, urging Arjuna to awaken to spiritual truth through disciplined action and detachment."
+      },
+      "slok70": {
+        "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्। तद्वत्कामा यं प्रविशन्ति सर्वं स शान्तिमाप्नोति न कामकामी।।2.70।।",
+        "transliteration": "āpūryamāṇam acala-pratiṣṭhaṁ samudram āpaḥ praviśanti yadvat, tadvat kāmā yaṁ praviśanti sarvaṁ sa śāntim āpnoti na kāma-kāmī",
+        "meaning": "As the ocean remains unmoved though waters flow into it, so the sage, into whom all desires enter, attains peace, not the one who craves desires.",
+        "explanation": "Krishna uses the metaphor of an ocean, which remains steady despite rivers flowing into it, to describe a person of steady wisdom (sthitaprajna). Such a sage remains undisturbed by desires, accepting them without attachment, and thus attains peace. In contrast, one who chases desires remains restless. This sloka emphasizes the importance of detachment in Karma Yoga, urging Arjuna to cultivate inner stability to perform his duties without being swayed by desires, achieving the tranquility essential for spiritual liberation."
+      },
+      "slok71": {
+        "sanskrit": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः। निर्ममो निरहङ्कारः स शान्तिमधिगच्छति।।2.71।।",
+        "transliteration": "vihāya kāmān yaḥ sarvān pumāṁś carati niḥspṛhaḥ, nirmamo nirahaṅkāraḥ sa śāntim adhigacchati",
+        "meaning": "The person who abandons all desires, moves free from longing, without possessiveness or ego, attains peace.",
+        "explanation": "Krishna describes the characteristics of a liberated soul: one who relinquishes all desires, lives without craving, possessiveness (‘mine-ness’), or ego (‘I-ness’). Such a person achieves profound peace, the hallmark of a sthitaprajna. This sloka encapsulates the goal of Karma Yoga, guiding Arjuna to act selflessly, free from personal motives, to attain inner tranquility. It underscores that true peace comes from transcending material attachments and ego, aligning actions with spiritual wisdom."
+      },
+      "slok72": {
+        "sanskrit": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति। स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति।।2.72।।",
+        "transliteration": "eṣā brāhmī sthitiḥ pārtha naināṁ prāpya vimuhyati, sthitvāsyām anta-kāle ’pi brahma-nirvāṇam ṛcchati",
+        "meaning": "This is the state of Brahman, O Partha. Having attained it, one is not deluded. Being established in it, even at the hour of death, one attains liberation in Brahman.",
+        "explanation": "Krishna concludes Chapter 2 by describing the ‘state of Brahman’—the ultimate spiritual state of steady wisdom, where one is free from delusion and fully aligned with the divine. Attaining this state ensures liberation (Brahma-nirvana), even at the moment of death. This sloka summarizes the teachings of Sankhya and Karma Yoga, assuring Arjuna that by practicing selfless action and cultivating wisdom, he can achieve this liberated state. It inspires him to pursue his duty with the goal of spiritual enlightenment, marking the culmination of Chapter 2’s teachings."
+      }
+    }
+  }
+]

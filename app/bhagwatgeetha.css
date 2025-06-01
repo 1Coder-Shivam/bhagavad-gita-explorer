@@ -1,0 +1,584 @@
+/* Variables */
+:root {
+  --primary-red: #B22222;
+  --primary-gold: #FFD700;
+  --nav-bg: rgba(178, 34, 34, 0.95);
+  --text-gold: #FFD700;
+  --card-bg: rgba(255, 255, 255, 0.15);
+  --border-gold: #DAA520;
+  --text-light: #FFF8DC;
+}
+
+/* Layout */
+.bg-geetha-gradient {
+  min-height: 100vh;
+  background: linear-gradient(135deg, var(--primary-red) 0%, #8B4513 100%);
+  color: var(--text-light);
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+/* Navigation */
+.nav-container {
+  background-color: var(--nav-bg);
+  padding: 1rem;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.nav-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo {
+  width: 3rem;
+  height: 3rem;
+  background: radial-gradient(circle at center, var(--text-gold) 0%, var(--border-gold) 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  color: var(--primary-red);
+  box-shadow: 0 0 10px var(--text-gold);
+}
+
+.site-title {
+  font-size: 1.5rem;
+  color: var(--text-gold);
+  margin: 0;
+}
+
+/* User Authentication */
+.auth-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.user-profile {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.user-photo {
+  border-radius: 50%;
+  border: 2px solid var(--text-gold);
+}
+
+.user-name {
+  color: var(--text-gold);
+}
+
+.auth-button {
+  background: linear-gradient(45deg, var(--border-gold), var(--text-gold));
+  color: var(--primary-red);
+  border: none;
+  padding: 0.8rem 1.5rem;
+  border-radius: 25px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: 0 2px 10px rgba(218, 165, 32, 0.3);
+}
+
+.auth-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(255, 215, 0, 0.4);
+  background: linear-gradient(45deg, var(--text-gold), var(--border-gold));
+}
+
+/* Auth Card Styles */
+.auth-card {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 215, 0, 0.2);
+  padding: 2.5rem;
+}
+
+.card-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.lotus-mandala {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1rem;
+}
+
+.lotus-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60px;
+  height: 60px;
+  background: radial-gradient(circle at center, var(--text-gold) 0%, var(--border-gold) 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  color: var(--primary-red);
+  z-index: 2;
+}
+
+.lotus-petals {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  animation: rotate 20s linear infinite;
+  background: repeating-conic-gradient(
+    from 0deg,
+    transparent 0deg 30deg,
+    rgba(255, 215, 0, 0.1) 30deg 60deg
+  );
+  border-radius: 50%;
+  border: 2px solid rgba(255, 215, 0, 0.3);
+}
+
+.welcome-text {
+  font-size: 1.4rem;
+  color: var(--text-light);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.auth-text {
+  font-size: 1.1rem;
+  color: var(--text-gold);
+  opacity: 0.9;
+  margin: 0;
+}
+
+.decorative-circle {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background: radial-gradient(circle at center, rgba(255, 215, 0, 0.1) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.decorative-circle.left {
+  left: -150px;
+  top: 20%;
+}
+
+.decorative-circle.right {
+  right: -150px;
+  bottom: 20%;
+}
+
+.om-symbol {
+  display: inline-block;
+  margin-right: 1rem;
+  color: var(--text-gold);
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Main Content */
+.main-container {
+  padding: 6rem 1rem 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+}
+
+/* Shloka Viewer Styles */
+.shloka-viewer {
+  background: #FFFFFF;
+  border-radius: 4px;
+  padding: 2rem;
+  margin: 1rem auto;
+  max-width: 800px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+@keyframes paperFloat {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+
+
+
+.shloka-content {
+  padding: 1rem;
+}
+
+.sanskrit-text {
+  font-size: 1.2rem;
+  color: #000000;
+  text-align: center;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.transliteration {
+  font-size: 1rem;
+  color: #333333;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+}
+
+.meaning, .explanation {
+  color: #333333;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.shloka-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid rgba(139, 69, 19, 0.2);
+  position: relative;
+  z-index: 1;
+}
+
+.nav-button {
+  background: #f0f0f0;
+  color: #333333;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.nav-button:hover {
+  background: #e0e0e0;
+}
+
+.nav-button:disabled {
+  background: #f0f0f0;
+  color: #999999;
+  cursor: not-allowed;
+}
+
+.verse-navigation {
+  display: flex;
+  gap: 1rem;
+}
+
+/* Chapter Cards Grid */
+.chapters-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 2rem 0;
+}
+
+.chapter-card {
+  background: rgba(139, 0, 0, 0.2);
+  border: 1px solid var(--border-gold);
+  border-radius: 10px;
+  padding: 1.5rem;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.chapter-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(255, 215, 0, 0.2);
+}
+
+.chapter-card-content {
+  position: relative;
+  z-index: 1;
+}
+
+.chapter-number {
+  font-size: 1.2rem;
+  color: var(--text-gold);
+  margin-bottom: 0.5rem;
+}
+
+.chapter-title {
+  font-size: 1.5rem;
+  margin: 0.5rem 0;
+  color: var(--text-gold);
+}
+
+.chapter-description {
+  color: #FFE5B4;
+  margin: 0.5rem 0;
+  line-height: 1.5;
+}
+
+.chapter-verses {
+  color: var(--text-gold);
+  font-size: 0.9rem;
+  margin-top: 1rem;
+}
+
+/* Shloka Viewer */
+.shloka-viewer {
+  padding: 2rem;
+  margin: 2rem auto;
+  max-width: 800px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  border: 1px solid rgba(218, 165, 32, 0.2);
+  position: relative;
+}
+
+
+
+.shloka-content {
+  position: relative;
+  z-index: 1;
+  padding: 2rem;
+  margin: 2rem 0;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  border: 1px solid rgba(218, 165, 32, 0.2);
+}
+
+.shloka-header {
+  border-bottom: 1px solid rgba(218, 165, 32, 0.2);
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.shloka-header h2 {
+  font-size: 1.4rem;
+  color: var(--text-gold);
+  margin: 0.5rem 0;
+}
+
+.sanskrit-text {
+  font-family: 'Sanskrit Text', serif;
+  font-size: 1.8rem;
+  line-height: 1.6;
+  text-align: center;
+  color: var(--text-gold);
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.transliteration {
+  font-family: 'Times New Roman', serif;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  text-align: center;
+  color: var(--text-light);
+  margin: 1rem 0;
+}
+
+.meaning, .explanation {
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.meaning h3, .explanation h3 {
+  color: var(--text-gold);
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.meaning p, .explanation p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--text-light);
+  margin: 0;
+}
+
+.verse-navigation {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.nav-button {
+  background: rgba(218, 165, 32, 0.6);
+  color: var(--text-light);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.nav-button:hover {
+  background: rgba(218, 165, 32, 0.8);
+}
+
+.nav-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.shloka-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.verse-navigation {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.nav-button {
+  background: linear-gradient(45deg, var(--border-gold), var(--text-gold));
+  color: var(--primary-red);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.nav-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.shloka-content {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 2rem;
+  margin: 1rem 0;
+}
+
+.sanskrit-text {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 1rem;
+  color: var(--text-gold);
+}
+
+.transliteration {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #FFE5B4;
+}
+
+.meaning, .explanation {
+  margin: 1.5rem 0;
+}
+
+.meaning h3, .explanation h3 {
+  color: var(--text-gold);
+  margin-bottom: 0.5rem;
+}
+
+/* Flame Effects */
+.card-corner-flame {
+  position: absolute;
+  bottom: -10px;
+  right: -10px;
+  width: 50px;
+  height: 50px;
+  opacity: 0.7;
+}
+
+.corner-flames .flame {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: radial-gradient(circle at center, #FFD700, #FF4500);
+  border-radius: 50% 0 50% 50%;
+  transform: rotate(45deg);
+  animation: flicker 1s infinite alternate;
+}
+
+.flame.top-left { top: 10px; left: 10px; }
+.flame.top-right { top: 10px; right: 10px; }
+.flame.bottom-left { bottom: 10px; left: 10px; }
+.flame.bottom-right { bottom: 10px; right: 10px; }
+
+@keyframes flicker {
+  0% { transform: rotate(45deg) scale(1); }
+  100% { transform: rotate(45deg) scale(1.1); }
+}
+
+/* Loading Spinner */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+}
+
+.spinner {
+  width: 50px;
+  height: 50px;
+  border: 4px solid rgba(255, 215, 0, 0.3);
+  border-radius: 50%;
+  border-top-color: var(--text-gold);
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Footer */
+.footer {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 2rem 0;
+  margin-top: 4rem;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0 1rem;
+}
+
+.footer-quote {
+  color: var(--text-gold);
+  font-style: italic;
+  margin-top: 1rem;
+}

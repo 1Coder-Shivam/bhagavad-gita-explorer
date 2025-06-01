@@ -1,0 +1,291 @@
+[
+  {
+    "chapter1": {
+      "title": "Arjuna Vishada Yoga (The Yoga of Arjuna's Grief)",
+      "description": "The first chapter sets the scene of the Kurukshetra battlefield. Arjuna, seeing his relatives on the opposing side, is filled with doubt and despair about fighting the war.",
+      "total_verses": 47,
+      "slok1": {
+        "sanskrit": "धृतराष्ट्र उवाच। धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः। मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय।।1.1।।",
+        "transliteration": "dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ māmakāḥ pāṇḍavāś caiva kim akurvata sañjaya",
+        "meaning": "Dhritarashtra said: O Sanjaya, what did my sons and the sons of Pandu do when they assembled on the holy field of Kurukshetra, eager for battle?",
+        "explanation": "The Bhagavad Gita begins with King Dhritarashtra asking his secretary Sanjaya about the battle that is about to take place on the field of Kurukshetra. This verse establishes the setting and the conflict between the Kauravas (sons of Dhritarashtra) and the Pandavas (sons of Pandu). The mention of 'dharma-kshetra' (field of righteousness) is significant as it foreshadows the moral and ethical questions that will be explored throughout the text."
+      },
+      "slok2": {
+        "sanskrit": "सञ्जय उवाच। दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा। आचार्यमुपसङ्गम्य राजा वचनमब्रवीत्।।1.2।।",
+        "transliteration": "sañjaya uvāca dṛṣṭvā tu pāṇḍavānīkaṁ vyūḍhaṁ duryodhanas tadā ācāryam upasaṅgamya rājā vacanam abravīt",
+        "meaning": "Sanjaya said: Seeing the army of the Pandavas arrayed for battle, King Duryodhana approached his teacher Drona and spoke these words.",
+        "explanation": "Sanjaya begins his narration by describing how Duryodhana, the eldest son of Dhritarashtra, approaches his military teacher Dronacharya upon seeing the Pandava army in formation. This verse introduces Duryodhana's character and shows his concern about facing the Pandava forces."
+      },
+      "slok3": {
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्। व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता।।1.3।।",
+        "transliteration": "paśyaitāṁ pāṇḍu-putrāṇām ācārya mahatīṁ camūm vyūḍhāṁ drupada-putreṇa tava śiṣyeṇa dhīmatā",
+        "meaning": "O Teacher, behold this mighty army of the sons of Pandu, arranged in battle formation by your intelligent disciple, the son of Drupada.",
+        "explanation": "Duryodhana points out to Drona the Pandava army arranged by Dhrishtadyumna (son of Drupada). There's irony in this statement as Dhrishtadyumna was born specifically to kill Drona, yet he is referred to as Drona's disciple. This verse reveals Duryodhana's anxiety and his attempt to provoke Drona by reminding him of his enemy's son."
+      },
+      "slok4": {
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि। युयुधानो विराटश्च द्रुपदश्च महारथः।।1.4।।",
+        "transliteration": "atra śūrā maheṣvāsā bhīmārjuna-samā yudhi yuyudhāno virāṭaś ca drupadaś ca mahā-rathaḥ",
+        "meaning": "Here in this army are many heroic bowmen who are equal in fighting to Bhima and Arjuna: great warriors like Yuyudhana (Satyaki), Virata and Drupada.",
+        "explanation": "Duryodhana begins to list the powerful warriors in the Pandava army. He compares some warriors to Bhima and Arjuna, who were considered the strongest among the Pandavas. This assessment shows Duryodhana's military acumen but also reveals his growing anxiety about the strength of the opposing forces."
+      },
+      "slok5": {
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्। पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः।।1.5।।",
+        "transliteration": "dhṛṣṭaketuś cekitānaḥ kāśirājaś ca vīryavān purujit kuntibhojaś ca śaibyaś ca nara-puṅgavaḥ",
+        "meaning": "Dhrishtaketu, Chekitana, the valiant King of Kashi, Purujit, Kuntibhoja and Shaibya, all great heroes.",
+        "explanation": "Duryodhana continues listing prominent warriors in the Pandava army. Each of these kings and warriors has their own significance and strength in battle. This verse further emphasizes the formidable military might that Duryodhana faces, adding to his anxiety."
+      },
+      "slok6": {
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्। सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः।।1.6।।",
+        "transliteration": "yudhāmanyuś ca vikrānta uttamaujāś ca vīryavān saubhadro draupadeyāś ca sarva eva mahā-rathāḥ",
+        "meaning": "The mighty Yudhamanyu, the valiant Uttamauja, the son of Subhadra (Abhimanyu) and the sons of Draupadi; all of them are great warriors.",
+        "explanation": "The list of Pandava allies continues, now mentioning Abhimanyu (Krishna's nephew and Arjuna's son) and the sons of Draupadi. Duryodhana specifically notes that all of them are 'maharathas' – warriors capable of fighting against 10,000 opponents simultaneously – highlighting the exceptional quality of the Pandava forces."
+      },
+      "slok7": {
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम। नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते।।1.7।।",
+        "transliteration": "asmākaṁ tu viśiṣṭā ye tān nibodha dvijottama nāyakā mama sainyasya saṁjñārthaṁ tān bravīmi te",
+        "meaning": "O best of the twice-born, please know also the distinguished commanders of my army. I shall mention them to you for your information.",
+        "explanation": "Having listed the prominent warriors on the Pandava side, Duryodhana now shifts to introducing the distinguished commanders of his own army. He addresses Drona as 'dvijottama' (best of the twice-born, referring to Brahmins), showing respect for his teacher while preparing to boost his own confidence by recounting his forces."
+      },
+      "slok8": {
+        "sanskrit": "भवान् भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः। अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च।।1.8।।",
+        "transliteration": "bhavān bhīṣmaś ca karṇaś ca kṛpaś ca samitiñjayaḥ aśvatthāmā vikarṇaś ca saumadattis tathaiva ca",
+        "meaning": "Yourself, Bhishma, Karna, and Kripa, ever victorious in battle; Ashvatthama, Vikarna, and the son of Somadatta (Bhurishrava).",
+        "explanation": "Duryodhana lists the key warriors on his side, starting with Drona himself. The list includes the revered grandfather Bhishma, the skilled archer Karna (Arjuna's rival), the sage-warrior Kripa, Drona's son Ashvatthama, Duryodhana's brother Vikarna, and Bhurishrava. These warriors represent different relationships, skills, and strengths within the Kaurava army."
+      },
+      "slok9": {
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः। नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः।।1.9।।",
+        "transliteration": "anye ca bahavaḥ śūrā mad-arthe tyakta-jīvitāḥ nānā-śastra-praharaṇāḥ sarve yuddha-viśāradāḥ",
+        "meaning": "And many other heroes who are ready to risk their lives for my sake, armed with various weapons and missiles, all well-skilled in warfare.",
+        "explanation": "Duryodhana mentions that besides the named commanders, his army includes many other brave warriors who are willing to sacrifice their lives for him. He emphasizes their diverse weapons skills and expertise in warfare, attempting to bolster confidence in his forces."
+      },
+      "slok10": {
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्। पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्।।1.10।।",
+        "transliteration": "aparyāptaṁ tad asmākaṁ balaṁ bhīṣmābhirakṣitam paryāptaṁ tv idam eteṣāṁ balaṁ bhīmābhirakṣitam",
+        "meaning": "Our army, protected by Bhishma, is insufficient, whereas their army, protected by Bhima, is sufficient.",
+        "explanation": "This verse contains Duryodhana's assessment of the relative strengths of the two armies. There are different interpretations of this complex verse: either Duryodhana is acknowledging that his forces are quantitatively superior but qualitatively inferior to the Pandava forces, or he is using rhetoric to motivate his commanders. The contrast between Bhishma and Bhima as protectors is significant."
+      },
+      "slok11": {
+        "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः। भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि।।1.11।।",
+        "transliteration": "ayaneṣu ca sarveṣu yathā-bhāgam avasthitāḥ bhīṣmam evābhirakṣantu bhavantaḥ sarva eva hi",
+        "meaning": "Therefore, all of you positioned in your respective strategic points must protect Bhishma.",
+        "explanation": "Duryodhana instructs his commanders to protect Bhishma, who is the supreme commander of the Kaurava forces. This instruction reveals the strategic importance of Bhishma to their cause, as well as Duryodhana's understanding that the elderly warrior, despite his prowess, would need support from other warriors."
+      },
+      "slok12": {
+        "sanskrit": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः। सिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्।।1.12।।",
+        "transliteration": "tasya sañjanayan harṣaṁ kuru-vṛddhaḥ pitāmahaḥ siṁha-nādaṁ vinadyoccaiḥ śaṅkhaṁ dadhmau pratāpavān",
+        "meaning": "To cheer him up, the mighty and eldest member of the Kuru dynasty, the grandfather Bhishma, roared like a lion and blew his conch shell loudly.",
+        "explanation": "In response to Duryodhana's concerns, Bhishma blows his conch shell to boost the morale of the Kaurava army. The lion-like roar symbolizes courage and strength, while the blowing of the conch marks the formal beginning of the battle. This action by Bhishma demonstrates his leadership and commitment to Duryodhana's cause."
+      },
+      "slok13": {
+        "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः। सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्।।1.13।।",
+        "transliteration": "tataḥ śaṅkhāś ca bheryaś ca paṇavānaka-gomukhāḥ sahasaivābhyahanyanta sa śabdas tumulo 'bhavat",
+        "meaning": "Then, conches, kettledrums, cymbals, drums and horns were suddenly sounded, and the combined sound was tumultuous.",
+        "explanation": "Following Bhishma's conch shell, various war instruments from the Kaurava army create a tremendous sound. This collective war cry serves multiple purposes: intimidating the enemy, boosting the morale of one's own forces, and marking the ceremonial commencement of battle. The tumultuous sound represents the chaos of the imminent war."
+      },
+      "slok14": {
+        "sanskrit": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ। माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः।।1.14।।",
+        "transliteration": "tataḥ śvetair hayair yukte mahati syandane sthitau mādhavaḥ pāṇḍavaś caiva divyau śaṅkhau pradadhmatuḥ",
+        "meaning": "Then, stationed in their great chariot yoked with white horses, Madhava (Krishna) and the son of Pandu (Arjuna) blew their divine conches.",
+        "explanation": "The narrative now shifts to Krishna and Arjuna, who respond to the Kaurava war cry with their own conch shells. They are described as being on a magnificent chariot drawn by white horses, symbolizing purity and divine presence. The term 'divyau' (divine) for their conches indicates their spiritual superiority and divine blessing."
+      },
+      "slok15": {
+        "sanskrit": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः। पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः।।1.15।।",
+        "transliteration": "pāñcajanyaṁ hṛṣīkeśo devadattaṁ dhanañjayaḥ pauṇḍraṁ dadhmau mahā-śaṅkhaṁ bhīma-karmā vṛkodaraḥ",
+        "meaning": "Hrishikesha (Krishna) blew his conch named Panchajanya; Dhananjaya (Arjuna) blew his conch called Devadatta; and Bhima, the performer of tremendous feats, blew his great conch named Paundra.",
+        "explanation": "The verse describes the specific conches blown by Krishna, Arjuna, and Bhima, each with its own name and symbolic significance. Krishna's conch Panchajanya represents divine control over the five elements; Arjuna's Devadatta signifies divine gift; and Bhima's Paundra symbolizes his tremendous strength. The naming of these conches personalizes them and emphasizes the divine support for the Pandava cause."
+      },
+      "slok16": {
+        "sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः। नकुलः सहदेवश्च सुघोषमणिपुष्पकौ।।1.16।।",
+        "transliteration": "anantavijayaṁ rājā kuntī-putro yudhiṣṭhiraḥ nakulaḥ sahadevaś ca sughoṣa-maṇipuṣpakau",
+        "meaning": "King Yudhishthira, the son of Kunti, blew his conch named Anantavijaya; Nakula and Sahadeva blew their conches named Sughosha and Manipushpaka.",
+        "explanation": "The verse continues listing the conches of the remaining Pandava brothers. Yudhishthira's conch Anantavijaya means 'endless victory,' reflecting his role as the righteous king. Nakula and Sahadeva, the twins, blow conches named Sughosha ('pleasant sound') and Manipushpaka ('jeweled flower'), respectively. These names reflect their characters—Nakula known for his beauty and Sahadeva for his wisdom."
+      },
+      "slok17": {
+        "sanskrit": "काश्यश्च परमेष्वासः शिखण्डी च महारथः। धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः।।1.17।।",
+        "transliteration": "kāśyaś ca parameṣvāsaḥ śikhaṇḍī ca mahā-rathaḥ dhṛṣṭadyumno virāṭaś ca sātyakiś cāparājitaḥ",
+        "meaning": "The King of Kashi, the great archer; Shikhandi, the great warrior; Dhrishtadyumna and Virata; and the invincible Satyaki.",
+        "explanation": "This verse begins a list of other prominent warriors on the Pandava side who also blow their conches. These include the skilled archer king of Kashi, Shikhandi (who would play a crucial role in Bhishma's fall), Dhrishtadyumna (the commander-in-chief of the Pandava army), King Virata (who sheltered the Pandavas during their final year of exile), and the undefeated warrior Satyaki (a Yadava ally)."
+      },
+      "slok18": {
+        "sanskrit": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते। सौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक् पृथक्।।1.18।।",
+        "transliteration": "drupado draupadeyāś ca sarvaśaḥ pṛthivī-pate saubhadraś ca mahā-bāhuḥ śaṅkhān dadhmuḥ pṛthak pṛthak",
+        "meaning": "O Lord of the Earth, King Drupada, the sons of Draupadi, and the mighty-armed son of Subhadra, all blew their respective conches.",
+        "explanation": "The list continues with King Drupada (father of Draupadi and Dhrishtadyumna), the five sons of Draupadi, and Abhimanyu (referred to as the son of Subhadra). Each warrior blows his own conch, creating a cacophony of sound that represents the unity and determination of the Pandava forces. The address 'O Lord of the Earth' reminds us that Sanjaya is narrating these events to King Dhritarashtra."
+      },
+      "slok19": {
+        "sanskrit": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्। नभश्च पृथिवीं चैव तुमुलो व्यनुनादयन्।।1.19।।",
+        "transliteration": "sa ghoṣo dhārtarāṣṭrāṇāṁ hṛdayāni vyadārayat nabhaś ca pṛthivīṁ caiva tumulo vyanunadayan",
+        "meaning": "That tumultuous sound reverberated through heaven and earth, shattering the hearts of the sons of Dhritarashtra.",
+        "explanation": "The combined sound of the Pandava conches has a profound psychological effect on the Kauravas. The description of the sound 'shattering the hearts' of Duryodhana and his brothers indicates their fear and recognition of the Pandavas' strength and divine support. The sound filling both heaven and earth suggests cosmic significance, as if the very universe acknowledges the righteousness of the Pandava cause."
+      },
+      "slok20": {
+        "sanskrit": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः। प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः।।1.20।।",
+        "transliteration": "atha vyavasthitān dṛṣṭvā dhārtarāṣṭrān kapi-dhvajaḥ pravṛtte śastra-sampāte dhanurudyamya pāṇḍavaḥ",
+        "meaning": "Then, seeing the sons of Dhritarashtra arrayed for battle and as weapons were about to clash, Arjuna, whose flag bore the emblem of Hanuman, took up his bow.",
+        "explanation": "The narrative now focuses specifically on Arjuna, identified by his flag bearing the image of Hanuman (the monkey deity, symbolizing strength and devotion). As the armies are poised to engage and weapons are about to clash, Arjuna raises his bow, preparing for battle. This moment marks a crucial turning point, as it is precisely when Arjuna will face his moral dilemma."
+      },
+      "slok21": {
+        "sanskrit": "हृषीकेशं तदा वाक्यमिदमाह महीपते। सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत।।1.21।।",
+        "transliteration": "hṛṣīkeśaṁ tadā vākyam idam āha mahī-pate senayor ubhayor madhye rathaṁ sthāpaya me 'cyuta",
+        "meaning": "At that time, O King, Arjuna spoke the following words to Hrishikesha (Krishna): O Achyuta (Infallible One), please position my chariot between the two armies.",
+        "explanation": "Arjuna asks Krishna, who is serving as his charioteer, to place the chariot between the two armies. This request indicates Arjuna's desire to observe both sides before engaging in battle. The use of the names 'Hrishikesha' (master of senses) and 'Achyuta' (infallible) for Krishna emphasizes Krishna's divine nature and perfect control, contrasting with Arjuna's growing uncertainty."
+      },
+      "slok22": {
+        "sanskrit": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्। कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे।।1.22।।",
+        "transliteration": "yāvad etān nirīkṣe 'haṁ yoddhu-kāmān avasthitān kair mayā saha yoddhavyam asmin raṇa-samudyame",
+        "meaning": "So that I may observe those who stand here eager for battle, and with whom I must fight in this striving for war.",
+        "explanation": "Arjuna explains his request, saying he wants to see who his opponents are. This indicates both his tactical thinking (assessing the enemy) and his growing moral questioning (recognizing whom he will have to kill). The phrase 'yoddhu-kāmān' (those eager for battle) hints at Arjuna's own reluctance, contrasting with others' readiness for violence."
+      },
+      "slok23": {
+        "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः। धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः।।1.23।।",
+        "transliteration": "yotsyamānān avekṣe 'haṁ ya ete 'tra samāgatāḥ dhārtarāṣṭrasya durbuddher yuddhe priya-cikīrṣavaḥ",
+        "meaning": "I wish to see those who have assembled here to fight, wishing to please the evil-minded son of Dhritarashtra in this battle.",
+        "explanation": "Arjuna continues his explanation, now with a slightly judgmental tone towards those fighting for Duryodhana (referred to as 'evil-minded'). This suggests Arjuna still believes in the righteousness of his cause, even as he begins to question the means. The verse shows his complex emotions as he prepares to face people who, though on the wrong side, include many whom he respects and loves."
+      },
+      "slok24": {
+        "sanskrit": "सञ्जय उवाच। एवमुक्तो हृषीकेशो गुडाकेशेन भारत। सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्।।1.24।।",
+        "transliteration": "sañjaya uvāca evam ukto hṛṣīkeśo guḍākeśena bhārata senayor ubhayor madhye sthāpayitvā rathottamam",
+        "meaning": "Sanjaya said: O descendant of Bharata, thus addressed by Gudakesha (Arjuna), Hrishikesha (Krishna) positioned that excellent chariot between the two armies.",
+        "explanation": "Sanjaya narrates how Krishna complies with Arjuna's request, placing the chariot between the opposing forces. Arjuna is referred to as 'Gudakesha,' meaning 'conqueror of sleep' or 'thick-haired,' highlighting his alertness and virility. This positioning of the chariot is symbolically significant, representing the middle path of wisdom that Krishna will later teach, positioned between opposing extremes."
+      },
+      "slok25": {
+        "sanskrit": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम्। उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति।।1.25।।",
+        "transliteration": "bhīṣma-droṇa-pramukhataḥ sarveṣāṁ ca mahī-kṣitām uvāca pārtha paśyaitān samavetān kurūn iti",
+        "meaning": "In front of Bhishma, Drona and all the kings, Krishna said: O Partha (Arjuna), behold these Kurus assembled here.",
+        "explanation": "Krishna positions the chariot specifically in front of the senior-most warriors of the Kaurava side – Bhishma and Drona – whom Arjuna especially reveres. Krishna then directs Arjuna's attention to the assembled Kuru warriors. By calling Arjuna 'Partha' (son of Pritha/Kunti), Krishna reminds him of his lineage and duty as a Kshatriya warrior."
+      },
+      "slok26": {
+        "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान्। आचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा।।1.26।।",
+        "transliteration": "tatrāpaśyat sthitān pārthaḥ pitṝn atha pitāmahān ācāryān mātulān bhrātṝn putrān pautrān sakhīṁs tathā",
+        "meaning": "There Arjuna saw standing fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons and friends as well.",
+        "explanation": "This verse describes what Arjuna sees as he looks at the Kaurava army – a collection of relatives and loved ones across multiple generations and relationships. This visualization of personal connections brings home the reality of what civil war means and triggers Arjuna's crisis of conscience. The detailed listing of relations emphasizes how extensively the conflict has divided families."
+      },
+      "slok27": {
+        "sanskrit": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि। तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्।।1.27।।",
+        "transliteration": "śvaśurān suhṛdaś caiva senayor ubhayor api tān samīkṣya sa kaunteyaḥ sarvān bandhūn avasthitān",
+        "meaning": "Fathers-in-law, friends, and also in both armies, the son of Kunti seeing all these kinsmen assembled there.",
+        "explanation": "Arjuna continues to observe both armies and recognizes more relatives and friends on both sides. The phrase 'senayor ubhayor api' (in both armies) emphasizes that Arjuna has loved ones fighting on both sides, intensifying his moral dilemma. Being referred to as 'Kaunteya' (son of Kunti) reminds us of his family ties, which are now in conflict with his duty as a warrior."
+      },
+      "slok28": {
+        "sanskrit": "कृपया परयाविष्टो विषीदन्निदमब्रवीत्। दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्।।1.28।।",
+        "transliteration": "kṛpayā parayāviṣṭo viṣīdann idam abravīt dṛṣṭvemaṁ sva-janaṁ kṛṣṇa yuyutsuṁ samupasthitam",
+        "meaning": "Overwhelmed by great compassion, despondent, he spoke thus: O Krishna, seeing my own kinsmen assembled here eager for battle,",
+        "explanation": "This verse marks the beginning of Arjuna's famous breakdown. Filled with compassion and grief at the prospect of killing his relatives, Arjuna begins to voice his moral crisis to Krishna. The term 'sva-janam' (own people) emphasizes his personal connection to those he must fight, while 'yuyutsum' (desiring to fight) creates irony - they are eager for the very battle that Arjuna now dreads."
+      },
+      "slok29": {
+        "sanskrit": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति। वेपथुश्च शरीरे मे रोमहर्षश्च जायते।।1.29।।",
+        "transliteration": "sīdanti mama gātrāṇi mukhaṁ ca pariśuṣyati vepathuś ca śarīre me roma-harṣaś ca jāyate",
+        "meaning": "My limbs weaken, my mouth dries up, my body trembles, and my hair stands on end.",
+        "explanation": "Arjuna describes the physical manifestations of his distress. These symptoms—weakness in limbs, dry mouth, trembling body, and hair standing on end—are classic signs of extreme anxiety or fear. This detailed physical description emphasizes the depth of Arjuna's emotional crisis and its impact on his entire being. It shows how the ethical dilemma has manifested as a physiological response."
+      },
+      "slok30": {
+        "sanskrit": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते। न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः।।1.30।।",
+        "transliteration": "gāṇḍīvaṁ sraṁsate hastāt tvak caiva paridahyate na ca śaknomy avasthātuṁ bhramatīva ca me manaḥ",
+        "meaning": "My bow Gandiva slips from my hand, and my skin burns. I am unable to stand steady, and my mind seems to be reeling.",
+        "explanation": "Arjuna's distress intensifies as his famous bow Gandiva (a divine weapon he received from the fire god Agni) slips from his hand. This is particularly significant as Gandiva is not just a weapon but a symbol of Arjuna's identity as a warrior. His inability to hold it represents his wavering resolve. The burning skin, inability to stand, and reeling mind further illustrate his extreme emotional turmoil."
+      },
+      "slok31": {
+        "sanskrit": "निमित्तानि च पश्यामि विपरीतानि केशव। न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे।।1.31।।",
+        "transliteration": "nimittāni ca paśyāmi viparītāni keśava na ca śreyo 'nupaśyāmi hatvā sva-janam āhave",
+        "meaning": "O Keshava (Krishna), I see inauspicious omens, and I do not foresee any good from killing my own kinsmen in this battle.",
+        "explanation": "Arjuna now perceives negative omens, which may be external signs or simply his interpretation of events through his troubled state of mind. More importantly, he explicitly states his moral objection: he sees no good coming from killing his own family members in battle. This marks his transition from physical symptoms of distress to articulating the ethical problem at the heart of his dilemma."
+      },
+      "slok32": {
+        "sanskrit": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च। किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा।।1.32।।",
+        "transliteration": "na kāṅkṣe vijayaṁ kṛṣṇa na ca rājyaṁ sukhāni ca kiṁ no rājyena govinda kiṁ bhogair jīvitena vā",
+        "meaning": "O Krishna, I do not desire victory, kingdom, or pleasures. O Govinda, what use is a kingdom, enjoyment, or even life itself?",
+        "explanation": "In this powerful verse, Arjuna rejects the very goals of the war – victory, kingdom, and the pleasures they would bring. Addressing Krishna as 'Govinda' (protector of cows, or one who is known through the Vedas), Arjuna questions the value of worldly gains achieved through the killing of loved ones. This represents a profound shift in values, as he now sees these once-desired outcomes as meaningless compared to the preservation of family."
+      },
+      "slok33": {
+        "sanskrit": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च। त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च।।1.33।।",
+        "transliteration": "yeṣām arthe kāṅkṣitaṁ no rājyaṁ bhogāḥ sukhāni ca ta ime 'vasthitā yuddhe prāṇāṁs tyaktvā dhanāni ca",
+        "meaning": "Those for whose sake we desire kingdom, enjoyments, and pleasures, stand here in battle, risking their lives and wealth.",
+        "explanation": "Arjuna points out the irony of the situation: the very people for whose happiness and well-being he would want the kingdom are now standing before him as enemies, ready to sacrifice their lives. This verse highlights the fundamental contradiction in fighting a war for the benefit of people who may not survive to enjoy those benefits. It shows Arjuna's growing awareness of the tragic absurdity of civil war."
+      },
+      "slok34": {
+        "sanskrit": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः। मातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा।।1.34।।",
+        "transliteration": "ācāryāḥ pitaraḥ putrās tathaiva ca pitāmahāḥ mātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandinas tathā",
+        "meaning": "Teachers, fathers, sons, and also grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives.",
+        "explanation": "Arjuna elaborates on the specific relationships represented in the opposing army, emphasizing the complex web of family ties that would be severed by the war. This detailed listing of relations across generations shows the deep social connections that are at stake and reinforces the gravity of Arjuna's moral dilemma. The verse powerfully illustrates how civil war tears apart the fabric of society and family."
+      },
+      "slok35": {
+        "sanskrit": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन। अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते।।1.35।।",
+        "transliteration": "etān na hantum icchāmi ghnato 'pi madhusūdana api trailokya-rājyasya hetoḥ kiṁ nu mahī-kṛte",
+        "meaning": "O Madhusudana (Krishna), even if they kill me, I do not wish to kill them, not even for the sovereignty of the three worlds, let alone for the sake of this earth.",
+        "explanation": "In this crucial verse, Arjuna explicitly states his refusal to kill his relatives, even if they kill him. This represents a radical position of non-violence based on family ties rather than strategic considerations. He declares that he would not take their lives even for rulership of all three worlds (heaven, earth, and the netherworld), indicating that no reward could justify such an action. This shows how completely Arjuna's values have shifted from warrior ethics to family preservation."
+      },
+      "slok36": {
+        "sanskrit": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन। पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः।।1.36।।",
+        "transliteration": "nihatya dhārtarāṣṭrān naḥ kā prītiḥ syāj janārdana pāpam evāśrayed asmān hatvaitān ātatāyinaḥ",
+        "meaning": "O Janardana (Krishna), what pleasure would we derive from killing the sons of Dhritarashtra? Sin alone would accrue to us by slaying these aggressors.",
+        "explanation": "Arjuna questions what joy or satisfaction could possibly come from killing the Kauravas, suggesting that such an act would bring only guilt and sin, not pleasure or peace. There's an interesting complexity here - while acknowledging the Kauravas as 'ātatāyinaḥ' (aggressors or criminals), Arjuna still believes killing them would be sinful for him personally. This shows his struggle between conventional morality (which might justify killing aggressors) and his personal sense of familial duty."
+      },
+      "slok37": {
+        "sanskrit": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्। स्वजनं हि कथं हत्वा सुखिनः स्याम माधव।।1.37।।",
+        "transliteration": "tasmān nārhā vayaṁ hantuṁ dhārtarāṣṭrān sva-bāndhavān sva-janaṁ hi kathaṁ hatvā sukhinaḥ syāma mādhava",
+        "meaning": "Therefore, we should not kill our own relatives, the sons of Dhritarashtra. O Madhava, how can we be happy after killing our own kinsmen?",
+        "explanation": "Arjuna concludes that it would be wrong to kill the Kauravas because they are relatives, regardless of their actions. He then asks Krishna a profound question: how could one find happiness after destroying one's own family? This highlights the psychological and emotional consequences of such actions, beyond just moral or religious considerations. The question is poignant because it addresses the long-term emotional impact of following the path of violence."
+      },
+      "slok38": {
+        "sanskrit": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः। कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्।।1.38।।",
+        "transliteration": "yady apy ete na paśyanti lobhopahatacetasaḥ kula-kṣaya-kṛtaṁ doṣaṁ mitra-drohe ca pātakam",
+        "meaning": "Even though these men, their intelligence clouded by greed, do not see the evil that comes from destroying the family and the crime in being treacherous to friends,",
+        "explanation": "Arjuna acknowledges that the Kauravas, blinded by greed and ambition, fail to recognize the sin of destroying their family or betraying friends. This verse introduces a new dimension to Arjuna's thinking - even if his enemies are morally compromised and unable to see their own wrongdoing, he believes he must maintain his own ethical standards. It also implies that the Kauravas' moral blindness does not justify reciprocal violence from the Pandavas."
+      },
+      "slok39": {
+        "sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम्। कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन।।1.39।।",
+        "transliteration": "kathaṁ na jñeyam asmābhiḥ pāpād asmān nivartitum kula-kṣaya-kṛtaṁ doṣaṁ prapaśyadbhir janārdana",
+        "meaning": "Why should we not have the wisdom to turn away from this sin, O Janardana (Krishna), we who see the evil in destroying the family?",
+        "explanation": "Arjuna argues that unlike the Kauravas, he and his brothers can see the grave consequences of family destruction, so they should have the wisdom to refrain from such action. This verse emphasizes Arjuna's belief that higher awareness carries greater responsibility - those who perceive the potential harm of an action have a duty to avoid it. He is essentially arguing for moral restraint based on his clearer understanding of the consequences."
+      },
+      "slok40": {
+        "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः। धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत।।1.40।।",
+        "transliteration": "kula-kṣaye praṇaśyanti kula-dharmāḥ sanātanāḥ dharme naṣṭe kulaṁ kṛtsnam adharmo 'bhibhavaty uta",
+        "meaning": "With the destruction of the family, the eternal family traditions are destroyed. When dharma (righteousness) is destroyed, adharma (unrighteousness) overtakes the entire family.",
+        "explanation": "Arjuna begins a series of verses explaining the social consequences of family destruction. He argues that when families are destroyed, ancient traditions and customs (kula-dharmas) perish with them. Without these traditions, righteousness (dharma) is lost, and unrighteousness (adharma) pervades society. This verse shows Arjuna's concern for the broader social and cultural implications of the war, beyond just the immediate deaths."
+      },
+      "slok41": {
+        "sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः। स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः।।1.41।।",
+        "transliteration": "adharmābhibhavāt kṛṣṇa praduṣyanti kula-striyaḥ strīṣu duṣṭāsu vārṣṇeya jāyate varṇa-saṅkaraḥ",
+        "meaning": "When adharma prevails, O Krishna, the women of the family become corrupted; and when women are corrupted, O descendant of Vrishni, there arises intermixture of castes.",
+        "explanation": "Arjuna continues his argument by describing a cascade of social degradation following family destruction. He claims that in a society dominated by adharma, women's moral character is compromised, leading to inappropriate marriages across castes (varṇa-saṅkara). While this reasoning reflects ancient social values about caste purity that may seem outdated today, the underlying concern is about the breakdown of social order and stability that can follow large-scale violence and family destruction."
+      },
+      "slok42": {
+        "sanskrit": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च। पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः।।1.42।।",
+        "transliteration": "saṅkaro narakāyaiva kula-ghnānāṁ kulasya ca patanti pitaro hy eṣāṁ lupta-piṇḍodaka-kriyāḥ",
+        "meaning": "This intermixture leads the family and the destroyers of the family to hell. The ancestors fall, deprived of offerings of rice and water.",
+        "explanation": "Arjuna argues that caste intermixture leads both the family and its destroyers toward spiritual degradation. More significantly, he raises concern about the interruption of ancestor worship (śrāddha ceremonies), where offerings of rice balls (piṇḍa) and water are made to deceased ancestors. In Hindu tradition, these rituals are considered essential for the well-being of ancestors' souls. This verse shows Arjuna's concern extending beyond the living to the spiritual welfare of past generations."
+      },
+      "slok43": {
+        "sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः। उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः।।1.43।।",
+        "transliteration": "doṣair etaiḥ kula-ghnānāṁ varṇa-saṅkara-kārakaiḥ utsādyante jāti-dharmāḥ kula-dharmāś ca śāśvatāḥ",
+        "meaning": "By these evils of the destroyers of the family, which cause intermixture of castes, the eternal caste traditions and family customs are destroyed.",
+        "explanation": "Arjuna elaborates on how the actions of those who destroy families (kula-ghna) lead to the erosion of both caste duties (jāti-dharma) and family traditions (kula-dharma). He emphasizes that these are 'eternal' or 'perpetual' (śāśvata) traditions, suggesting their fundamental importance to social order and spiritual well-being. This verse reinforces Arjuna's concern for preserving cultural and religious continuity through intact family structures."
+      },
+      "slok44": {
+        "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन। नरकेऽनियतं वासो भवतीत्यनुशुश्रुम।।1.44।।",
+        "transliteration": "utsanna-kula-dharmāṇāṁ manuṣyāṇāṁ janārdana narake 'niyataṁ vāso bhavatīty anuśuśruma",
+        "meaning": "O Janardana, we have heard that those whose family traditions are destroyed must dwell in hell for an indefinite period.",
+        "explanation": "Arjuna states that he has heard (likely from scriptural authorities) that people whose family traditions have been destroyed are condemned to dwell in hell for an indeterminate time. This introduces the religious consequences of family destruction, beyond social disorder. By appealing to traditional beliefs about afterlife punishment, Arjuna adds spiritual weight to his argument against fighting. The reference to what he has 'heard' (anuśuśruma) indicates his reliance on received wisdom and tradition."
+      },
+      "slok45": {
+        "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम्। यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः।।1.45।।",
+        "transliteration": "aho bata mahat-pāpaṁ kartuṁ vyavasitā vayam yad rājya-sukha-lobhena hantuṁ sva-janam udyatāḥ",
+        "meaning": "Alas, what a great sin we are prepared to commit! Driven by greed for royal pleasures, we are ready to kill our own kinsmen.",
+        "explanation": "Having outlined the consequences of family destruction, Arjuna now expresses shock and self-recrimination at his own participation in such plans. He characterizes their intention to fight as a 'great sin' (mahat-pāpam) motivated by greed for royal pleasures. This verse represents a moment of painful self-awareness, as Arjuna recognizes that he and his brothers are about to commit the very sins he has been condemning. The exclamation 'aho bata' conveys his distress and disbelief at this realization."
+      },
+      "slok46": {
+        "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः। धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्।।1.46।।",
+        "transliteration": "yadi mām apratīkāram aśastraṁ śastra-pāṇayaḥ dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṁ bhavet",
+        "meaning": "It would be better for me if the sons of Dhritarashtra, weapons in hand, were to kill me, unarmed and unresisting, in the battle.",
+        "explanation": "In this powerful verse, Arjuna declares that he would prefer to be killed unarmed and unresisting by the Kauravas than to fight against them. This represents the culmination of his moral crisis—he would rather sacrifice his life than participate in the destruction of his family. The term 'kṣemataraṁ' (more beneficial or auspicious) suggests that he sees his own death as spiritually preferable to the sin of killing his relatives. This verse marks Arjuna's complete rejection of violence as a solution to the conflict."
+      },
+      "slok47": {
+        "sanskrit": "सञ्जय उवाच। एवमुक्त्वार्जुनः संख्ये रथोपस्थ उपाविशत्। विसृज्य सशरं चापं शोकसंविग्नमानसः।।1.47।।",
+        "transliteration": "sañjaya uvāca evam uktvārjunaḥ saṅkhye rathopastha upāviśat visṛjya sa-śaraṁ cāpaṁ śoka-saṁvigna-mānasaḥ",
+        "meaning": "Sanjaya said: Having spoken thus on the battlefield, Arjuna cast aside his bow and arrows and sat down on the chariot seat, his mind overwhelmed with grief.",
+        "explanation": "The first chapter concludes with Arjuna's complete surrender to despair. Having articulated his moral dilemma, he physically demonstrates his refusal to fight by casting aside his bow and arrows (which symbolize his warrior identity) and sitting down in the chariot. The description of his mind as 'śoka-saṁvigna-mānasaḥ' (overwhelmed with grief) emphasizes the emotional dimension of his ethical crisis. This dramatic action sets the stage for Krishna's teachings in the following chapters, which will address Arjuna's crisis by introducing deeper philosophical perspectives."
+      }
+    }
+  }
+]
