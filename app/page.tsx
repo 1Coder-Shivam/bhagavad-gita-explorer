@@ -105,11 +105,6 @@ export default function Home() {
             <div className="decorative-circle left"></div>
             <div className="decorative-circle right"></div>
             
-            <h2 className="page-title">
-              <span className="om-symbol">ॐ</span>
-              Welcome to the Divine Wisdom
-            </h2>
-            
             <div className="content-card auth-card">
               <div className="card-inner">
                 <div className="lotus-mandala">
@@ -151,7 +146,7 @@ export default function Home() {
     <div className="bg-geetha-gradient">
       <nav className="nav-container">
         <div className="nav-content">
-          <div className="logo-container">
+          <div className="logo-container" onClick={handleBackToChapters} style={{ cursor: 'pointer' }}>
             <div className="logo">ॐ</div>
             <h1 className="site-title">Bhagwat Geetha</h1>
           </div>
@@ -184,7 +179,6 @@ export default function Home() {
           />
         ) : (
           <div>
-            <h2 className="page-title">Chapters of Bhagavad Gita</h2>
             <div className="chapters-grid">
               {chapters.map((chapter, index) => {
                 const chapterNumber = index + 1;
